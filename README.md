@@ -1,6 +1,6 @@
 # YOLO Object Detection and Filters Application
 
-This application is a powerful tool for image and video processing, combining YOLO (You Only Look Once) object detection with various image filters. It provides a user-friendly interface for processing images, videos, and live video streams.
+This project is an implementation of YOLO (You Only Look Once) object detection, a user-friendly interface application, combined with image and video filters. It allows users to select images, videos, or live webcam feeds, apply different filters, and detect objects using the YOLO algorithm.
 
 ## Features
 
@@ -42,12 +42,9 @@ This application is a powerful tool for image and video processing, combining YO
 
 3. Download the YOLO weights, cfg, and names files and place them in the project directory.
    
-   YOLO Wieghts Link
-https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights
-   Coco Names Link
-https://github.com/pjreddie/darknet/blob/master/data/coco.names
-   YOLO V3 CFG Link
-https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+   YOLO Wieghts Link https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights
+   Coco Names Link https://github.com/pjreddie/darknet/blob/master/data/coco.names
+   YOLO V3 CFG Link https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
    
 
 ## Usage
