@@ -41,6 +41,14 @@ This application is a powerful tool for image and video processing, combining YO
    ```
 
 3. Download the YOLO weights, cfg, and names files and place them in the project directory.
+   
+   YOLO Wieghts Link
+https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights
+   Coco Names Link
+https://github.com/pjreddie/darknet/blob/master/data/coco.names
+   YOLO V3 CFG Link
+https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+   
 
 ## Usage
 
